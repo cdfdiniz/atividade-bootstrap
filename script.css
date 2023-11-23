@@ -1,4 +1,9 @@
-.card-img-top {
-    width: 100px;
-    height: 100px;
+.card {
+    width: 400px;
+    background-color: rgb(180, 189, 189);
+    
 }
+button {
+    margin-bottom: auto;
+}
+
